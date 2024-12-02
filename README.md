@@ -1,4 +1,4 @@
-# EssentialCpp
+# essential_cpp
 
 Essential C++, non-Windows
 
